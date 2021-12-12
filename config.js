@@ -58,9 +58,9 @@ const CONFIG = {
     },
     {
       id: '4',
-      name: 'Calendar',
+      name: 'Nextcloud',
       icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      link: 'http://vincent-ovh.fr/nextcloud',
     },
     {
       id: '5',
