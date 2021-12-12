@@ -52,9 +52,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Todoist',
+      name: 'Reddit',
       icon: 'trello',
-      link: 'https://todoist.com',
+      link: 'https://reddit.com',
     },
     {
       id: '4',
@@ -64,9 +64,9 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Reddit',
+      name: 'EcoleDirecte',
       icon: 'glasses',
-      link: 'https://reddit.com',
+      link: 'https://ecoledirecte.fr',
     },
     {
       id: '6',
